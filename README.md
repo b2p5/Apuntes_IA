@@ -1,4 +1,3 @@
-# Análisis Avanzado de Bitcoin con IA
 # Apuntes de IA aplicada a Bitcoin
 
 Este repositorio contiene código y documentación para tres principales aplicaciones de inteligencia artificial en el ámbito de Bitcoin: análisis de textos relacionados con la Mempool, consultas a bases de datos de transacciones y la interacción con APIs de terceros para datos en tiempo real.
@@ -49,30 +48,6 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo `LICENSE.md
 
 
 
-
-
-# Apuntes de IA aplicada a Bitcoin
-
-## Descripción
-
-Los "Apuntes de IA" son una colección de ejercicios prácticos diseñados para explorar y entender las operaciones fundamentales ....
-
-
-## Objetivo de los Apuntes
-
-El propósito de estos apuntes es :
-
-1. **Desarrollar competencias en IA:** A través de la práctica con ejercicios reales y aplicados, los usuarios mejorarán su habilidad en el lenguaje de programación Rust.
-2. **Entender al  Bitcoin:** Estos ejercicios proporcionan una comprensión práctica de cómo gestionar y manipular la mempool de Bitcoin, un componente crítico en el ecosistema de la blockchain.
-
-
-
-## Contribuciones
-
-
-
-
----
 
 
 

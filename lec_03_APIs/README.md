@@ -21,16 +21,6 @@ El programa proporciona las siguientes funcionalidades específicas:
 - **Obtener detalles de un bloque específico**: Dado el hash de un bloque, devuelve detalles como el tamaño del bloque, el tiempo de confirmación, y más.
 - **Obtener tarifas promedio por bloque**: Devuelve las tarifas promedio y la altura promedio de los bloques durante un período específico.
 
-## Instalación
-
-Para instalar y ejecutar esta aplicación en tu entorno local, sigue estos pasos:
-
-1. Clona este repositorio.
-2. Instala las dependencias necesarias:
-   ```bash
-   pip install streamlit langchain langchain-openai requests pydantic
-   ```
-
 
 ## Instalación
 
@@ -40,7 +30,7 @@ Para instalar y ejecutar este chatbot en tu entorno local, sigue estos pasos:
 2. Asegúrate de tener Python instalado en tu sistema.
 3. Instala las dependencias necesarias:
     ```bash
-    pip install streamlit langchain langchain-openai
+    pip install streamlit langchain langchain-openai requests pydantic
     ```
 4. Crea un archivo `.env` en el directorio principal del proyecto con tu clave API de OpenAI:
     ```plaintext

@@ -37,7 +37,7 @@ Para instalar y ejecutar los scripts, se requieren los siguientes pasos:
 pip install -qU langchain
 pip install -qU langchain-openai
 pip install streamlit
-
+```
 
 ## Uso
 
@@ -45,7 +45,7 @@ Para ejecutar el script de almacenamiento de documentos, simplemente ejecuta el 
 
 ```bash
 streamlit run script_consulta.py
-
+```
 
 ## Contribuciones
 Las contribuciones a estos apuntes serán bienvenidas, ya sea para mejorar las soluciones existentes, ofrecer nuevas perspectivas, o proponer nuevos desafíos. Por favor, siga las mejores prácticas de desarrollo y documentación al contribuir.

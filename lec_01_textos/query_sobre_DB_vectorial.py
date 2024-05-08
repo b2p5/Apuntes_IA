@@ -1,18 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Commented out IPython magic to ensure Python compatibility.
-# %pip install -qU langchain langchain-core langchain-openai
-
-# Utilizar funciones de Langchain
-# https://www.linkedin.com/pulse/using-openai-functions-langchain-agents-ilya-fastovets-1otac
-# Buscar en Chroma
-# https://github.com/hwchase17/chroma-langchain/blob/master/persistent-qa.ipynb
-
-# NOOOO ejemplo de uo de como interrogar BBDD de Chroma
-# https://github.com/brunogarcia/langchain-crimen-y-castigo/blob/main/crimen_y_castigo.ipynb
-# https://python.langchain.com/docs/integrations/vectorstores/chroma/#basic-example-including-saving-to-disk
-
-
 # Importar Streamlit
 import streamlit as st
 

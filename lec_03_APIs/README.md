@@ -29,7 +29,8 @@ Para instalar y ejecutar esta aplicación en tu entorno local, sigue estos pasos
 2. Instala las dependencias necesarias:
    ```bash
    pip install streamlit langchain langchain-openai requests pydantic
-```
+   ```
+
 
 ## Instalación
 

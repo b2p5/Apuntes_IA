@@ -44,7 +44,7 @@ pip install streamlit
 Para ejecutar el script de almacenamiento de documentos, simplemente ejecuta el primer script Python. Para iniciar la interfaz de consulta, ejecuta el segundo script utilizando Streamlit:
 
 ```bash
-streamlit run script_consulta.py
+streamlit run query_sobre_DB_vectorial.py
 ```
 
 ## Contribuciones
